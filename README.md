@@ -29,7 +29,7 @@ State-level weighted average WTI pricing was used to model estimated revenue per
 
 # Executive Summary 
 
-D Core Business Insights Total Revenue Analyzed: $3.13 trillion Total Production Volume: 41 billion units Commodity Mix: Gas = 90.84% Oil = 9.16% Top Producing States: New Mexico and Wyoming accounted for approximately 73% of total production volume Highest YoY Growth: New Mexico at 8.02% Lowest Average WTI Price: Idaho at $63.60 Highest Average WTI Price: Louisiana at $81.37, driven by production concentration during peak pricing years (2022–2024) Lowest Price Year: 2020 with an average WTI price of $49.18.
+Core Business Insights Total Revenue Analyzed: $3.13 trillion Total Production Volume: 41 billion units Commodity Mix: Gas = 90.84% Oil = 9.16% Top Producing States: New Mexico and Wyoming accounted for approximately 73% of total production volume Highest YoY Growth: New Mexico at 8.02% Lowest Average WTI Price: Idaho at $63.60 Highest Average WTI Price: Louisiana at $81.37, driven by production concentration during peak pricing years (2022–2024) Lowest Price Year: 2020 with an average WTI price of $49.18.
 
 # Technical Skills Demonstrated
 Data Cleaning & Transformation
